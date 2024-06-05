@@ -1,7 +1,3 @@
-
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/185b8511-7729-4fe7-8d7d-4c580ca88084
-
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/1f27b106-19aa-457b-98c8-6f586b8af056
 ## DEMO
 **1. Project Introduction**
 
