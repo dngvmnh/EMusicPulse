@@ -26,7 +26,7 @@ This project primarily targets musicians and artists who are eager to explore in
 
 The project addresses several significant social issues. It enhances accessibility in music and art by enabling people with physical disabilities to interact with musical instruments, thereby promoting inclusivity. By utilizing muscle signals to create music, it serves as a form of physical therapy, aiding individuals in regaining muscle control and coordination. Moreover, the project fosters education and STEM engagement by involving students and hobbyists in hands-on learning experiences that integrate biology, electronics, and programming, thus promoting a deeper understanding and interest in these fields.
 
-**Motivation**
+**2. Motivation**
 
 This project is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. We're inspired by people like Đặng Ngọc Duy, a blind teacher who loves music. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. We want to show that anyone can express themselves through music, and that technology can help make that possible. Duy's story reminds us that with determination and the right tools, anything is possible, and we want to share that message with the world through our project.
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
