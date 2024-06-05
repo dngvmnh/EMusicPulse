@@ -1,9 +1,18 @@
+
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/185b8511-7729-4fe7-8d7d-4c580ca88084
+
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/1f27b106-19aa-457b-98c8-6f586b8af056
 ## DEMO
-**1. Project Setup**
+**1. Project Introduction**
 
 
-**2. Play Mode**
+**2. Project Setup**
 
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/1f27b106-19aa-457b-98c8-6f586b8af056
+
+**3. Play Mode**
+
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/185b8511-7729-4fe7-8d7d-4c580ca88084
 
 ## Project Description
 
@@ -35,6 +44,8 @@ _Image 2. System design._
 
 ●  The electrodes are placed as follows:
 ![Screenshot 2024-06-06 004920](https://github.com/dngvmnh/EMusicPulse/assets/133772077/a549bb97-cd4d-4d81-8a0e-f9bfc0cd5946)
+_Image 3. Electrodes placements._
+
 Given the quality of the EMG sensor and the signal noises, the signals' precision is not as accurate as we desired when measuring the muscle groups at the forearm while closing the hand. To enhance signal accuracy, electrodes were strategically positioned at the wrist, one end of the bicep, and the midpoint of the bicep (biceps brachii). Given the biceps' significant size within the arm muscle group, this placement ensures more reliable data capture.
 
 ## Results and discussion
