@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.sidebar {
+    flex: 0 0 20%;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.main-content {
+    flex: 0 0 75%;
+    padding: 20px;
+}
+
+.info-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.info-item {
+    flex: 1 1 calc(33.33% - 20px); /* Each info item takes 33.33% of the space minus margin */
+    text-align: center;
+}
+
+.info-item img {
+    max-width: 100%; /* Ensure images don't exceed their container's width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Additional styles */
+.info-item h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.info-item p {
+    font-size: 16px;
+    color: #666;
+}
