@@ -17,7 +17,8 @@ The project addresses several significant social issues. It enhances accessibili
 **Motivation**
 
 This project is carried out as an effort to 
-![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/1f5788ef-5650-47a5-985f-3e87d0907dbd)
+![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
+![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
 
 _Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident._
 ## Implementation
