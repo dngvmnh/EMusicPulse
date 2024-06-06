@@ -29,7 +29,7 @@ The project addresses several significant social issues. It enhances accessibili
 
 **2. Motivation**
 
-This project is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. We're inspired by people like Đặng Ngọc Duy, a blind teacher who loves music. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. We want to show that anyone can express themselves through music, and that technology can help make that possible. Duy's story reminds us that with determination and the right tools, anything is possible, and we want to share that message with the world through our project.
+This project is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. I am inspired by people like Đặng Ngọc Duy, a blind teacher who loves music. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. I want to show that anyone can express themselves through music, and that technology can help make that possible. Duy's story show that with determination and the right tools, anything is possible, and I want to share that message with the world through this project.
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
 _Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident._
 
@@ -37,7 +37,7 @@ _Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully p
 
 The implementation of this project includes three main stages: setup Arduino components, processing signals, and establishing web display.
 
-● Our system design:
+● System design:
 ![system design](https://github.com/dngvmnh/EMusicPulse/assets/133772077/10853052-1546-47bf-9715-01d42129c3fc)
 _Image 2. System design._
 
