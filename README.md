@@ -20,6 +20,7 @@ https://github.com/dngvmnh/EMusicPulse/assets/133772077/436d5492-5a7c-4461-85ac-
 ## Project Description
 
 **1. Overview**
+
 EMusicPulse innovatively merges technology and art by using electromyography (EMG) to play music through muscle signals. This endeavor not only showcases the creative potential of EMG technology but also addresses significant ethical dimensions. It promotes inclusivity by enabling individuals with disabilities to participate in musical creation, thus expanding accessibility in the arts. Additionally, it supports rehabilitation efforts by offering a therapeutic avenue for those regaining muscle control and coordination. Furthermore, the project fosters STEM education and engagement, inspiring students and hobbyists to explore practical applications of biology, electronics, and programming. Through these contributions, the project embodies ethical principles of empowerment, equal opportunity, and the responsible use of technology.
 
 This project primarily targets musicians and artists who are eager to explore innovative ways to create and perform music using their body movements. It also appeals to technology enthusiasts and DIY makers who enjoy building and experimenting with circuits and Arduino-based projects. Additionally, researchers and students studying biomedical engineering, neurology, or related fields can find valuable practical applications of EMG technology through this project. Furthermore, it provides individuals with disabilities new methods to interact with musical instruments or other devices, especially those with limited mobility.
@@ -28,7 +29,7 @@ The project addresses several significant social issues. It enhances accessibili
 
 **2. Motivation**
 
-This project is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. We're inspired by people like Đặng Ngọc Duy, a blind teacher who loves music. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. We want to show that anyone can express themselves through music, and that technology can help make that possible. Duy's story reminds us that with determination and the right tools, anything is possible, and we want to share that message with the world through our project.
+This project is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. I am inspired by people like Đặng Ngọc Duy, a blind teacher who loves music. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. I want to show that anyone can express themselves through music, and that technology can help make that possible. Duy's story show that with determination and the right tools, anything is possible, and I want to share that message with the world through this project.
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
 _Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident._
 
@@ -36,7 +37,7 @@ _Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully p
 
 The implementation of this project includes three main stages: setup Arduino components, processing signals, and establishing web display.
 
-● Our system design:
+● System design:
 ![system design](https://github.com/dngvmnh/EMusicPulse/assets/133772077/10853052-1546-47bf-9715-01d42129c3fc)
 _Image 2. System design._
 
