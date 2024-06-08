@@ -2,19 +2,13 @@
 **1. Project Introduction**
 
 
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/aeb9f401-35b8-402a-aeea-168edb53f2fa
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/7ccc79e8-b0e8-4abe-8954-fb74e978a06c
 
 
 **2. Project Setup**
 
 
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/57ccb977-1895-43ef-bbe9-d0c2d7677e5e
-
-
-**3. Play Mode**
-
-
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/436d5492-5a7c-4461-85ac-545ecc029ee9
+https://github.com/dngvmnh/EMusicPulse/assets/133772077/957e46db-2db2-46be-be2f-43182c783874
 
 
 ## Project Description
