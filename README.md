@@ -8,7 +8,6 @@ https://github.com/dngvmnh/EMusicPulse/assets/133772077/6b565f47-4c07-4358-90b7-
 **2. Project Setup**
 
 
-https://github.com/dngvmnh/EMusicPulse/assets/133772077/957e46db-2db2-46be-be2f-43182c783874
 
 
 ## Project Description
