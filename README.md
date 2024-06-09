@@ -36,16 +36,12 @@ _Image 2. System design._
 
 ● There are two main programs for this project: obtaining signals, processing signals, and displaing on web. Arduino Uno and host device communicate through the serial port. multilayered background musics and sound effects (bass, drum, kick, chord) are joined by multi-threading. 
 
-●  The electrodes are placed as follows:
-![Screenshot 2024-06-06 004920](https://github.com/dngvmnh/EMusicPulse/assets/133772077/a549bb97-cd4d-4d81-8a0e-f9bfc0cd5946)
-_Image 3. Electrodes placements._
-
-Given the quality of the EMG sensor and the signal noises, the signals' precision is not as accurate as we desired when measuring the muscle groups at the forearm while closing the hand. To enhance signal accuracy, electrodes were strategically positioned at the wrist, one end of the bicep, and the midpoint of the bicep (biceps brachii). Given the biceps' significant size within the arm muscle group, this placement ensures more reliable data capture.
+● Given the quality of the EMG sensor and the signal noises, the signals' precision is not as accurate as we desired when measuring the muscle groups at the forearm while closing the hand. To enhance signal accuracy, electrodes were strategically positioned at the wrist, one end of the bicep, and the midpoint of the bicep (biceps brachii). Given the biceps' significant size within the arm muscle group, this placement ensures more reliable data capture.
 
 
 ●  The User Interface (UI) is designed as follow:
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/daa5135d-e520-4e14-b453-8d9ec509bf34)
-_Image 4. User Interface._
+_Image 3. User Interface._
 
 The EMG Signal Dashboard web application serves as an interactive interface for monitoring real-time data received from an EMG sensor connected to an Arduino. This dashboard displays the latest EMG values, the current effect being applied, and the mode in which the system is operating. It fetches updated data from the Flask server at regular intervals, providing users with a dynamic and current view of the EMG signals and system status. This setup is particularly useful for immediate feedback and visualization of EMG data, such as in biofeedback therapy, muscle activity monitoring, and interactive audio-visual systems.
 
