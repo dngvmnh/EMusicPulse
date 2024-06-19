@@ -2,6 +2,7 @@ import serial
 import pygame
 import time
 import threading
+import brainflow
 
 # Initialize serial communication with Arduino
 arduino_port = 'COM6'  # Replace with your Arduino's port
