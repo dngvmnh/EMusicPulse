@@ -4,15 +4,13 @@ import time
 import threading
 import brainflow
 
-# Initialize serial communication with Arduino
-arduino_port = 'COM6'  # Replace with your Arduino's port
+arduino_port = 'COM6
 baud_rate = 9600
 ser = serial.Serial(arduino_port, baud_rate)
 
-# Initialize pygame mixer for audio playback
 pygame.mixer.init()
 
-# Load audio files
+
 loop1 = pygame.mixer.Sound('loop1.wav')
 loop2 = pygame.mixer.Sound('loop2.wav')
 bass = pygame.mixer.Sound('bass.wav')
