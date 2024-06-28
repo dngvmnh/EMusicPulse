@@ -1,21 +1,20 @@
-
 const Orders = [
     {
-        productName: 'JavaScript Tutorial',
-        productNumber: '85743',
-        paymentStatus: 'Due',
-        status: 'Pending'
+      productName: "Dreams-Fleetwood Mac",
+      productNumber: "Dreams",
+      paymentStatus: "Fleetwood Mac",
+      status: "F-G",
     },
     {
-        productName: 'CSS Full Course',
-        productNumber: '97245',
-        paymentStatus: 'Refunded',
-        status: 'Declined'
+      productName: "Tennessee Whiskey - Chris Stapleton",
+      productNumber: "Tennessee Whiskey",
+      paymentStatus: "Chris Stapleton",
+      status: "A - Bm - Bm - A",
     },
     {
-        productName: 'Flex-Box Tutorial',
-        productNumber: '36452',
-        paymentStatus: 'Paid',
-        status: 'Active'
+      productName: "Creep - Radiohead",
+      productNumber: "Creep",
+      paymentStatus: "Radiohead",
+      status: "G - B - C - Cm",
     },
-]
+  ];

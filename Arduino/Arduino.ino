@@ -1,16 +1,22 @@
-#include <Servo.h>
-#define THRESHOLD 500
-#define EMG_PIN A0
-#define SERVO_PIN 9
+
+# define green 10
+# define yellow 11
+# define red 12
+
+
 void setup() {
-  Serial.begin(9600);
+  pinMode(green , OUTPUT);
+  pinMode(yellow, OUTPUT);
+  pinMode(red, OUTPUT);
 }
 void loop(){
-  int mode = analogRead(A5);
-  int loop_mode = map(mode,0,1023,1000,1002);
-  int value = analogRead(EMG_PIN);
-  
-  Serial.print(value);
-  Serial.print(", ");
-  Serial.println(loop_mode);
+  digitalWrite(green, HIGH);
+  delay(3000);
+  digitalWrite(green, LOW);
+  digitalWrite(yellow, HIGH);
+  delay(3000);
+  digitalWrite(yellow, LOW);
+  digitalWrite(red, HIGH);
+  delay(3000);
+  digitalWrite(red,LOW);
 }

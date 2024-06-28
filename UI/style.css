@@ -251,18 +251,25 @@ main .analyse > div .status{
 }
 
 main .analyse h3{
-    margin-left: 0.6rem;
-    font-size: 1rem;
+    display:inline-block;
+    margin-left: 3rem;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
 }
 
-main .analyse .progresss{
+main .analyse h1{
+    margin-left: 3.4rem;
+}
+
+/* main .analyse .progresss{
     position: relative;
     width: 92px;
     height: 92px;
     border-radius: 50%;
-}
+} */
 
-main .analyse svg{
+/* main .analyse svg{
     width: 7rem;
     height: 7rem;
 }
@@ -302,7 +309,7 @@ main .analyse .progresss .percentage{
     justify-content: center;
     height: 100%;
     width: 100%;
-} 
+}  */
 
 main .new-users{
     margin-top: 1.3rem;
