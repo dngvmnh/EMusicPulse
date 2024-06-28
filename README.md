@@ -21,7 +21,7 @@ The project addresses several significant social issues. It enhances accessibili
 
 This project, inspired by people like Đặng Ngọc Duy - a blind teacher who loves music, is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. The aim is to demonstrate that music can be a means of self-expression for anyone, facilitated by technology. Duy's story illustrates that with determination and the appropriate tools, anything can be achieved, and the intention is to disseminate that message globally through this project.
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
-<p style="text-align: center;"><em>Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident.</em></p>
+<p align=center><em>Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident.</em></p>
 
 ## Implementation
 
@@ -29,7 +29,7 @@ The implementation of this project includes three main stages: setup Arduino com
 
 ● System design:
 ![system design](https://github.com/dngvmnh/EMusicPulse/assets/133772077/10853052-1546-47bf-9715-01d42129c3fc)
-<p style="text-align: center;"><em>Image 2. System design.</em></p>
+<p align=center><em>Image 2. System design.</em></p>
 
 
 ● An Arduino Uno was used to controll to system; EMG A10-09 sensor to obtain electromyographic signals; a potentiometer to change between modes; and a speaker to play sounds and effects.
@@ -41,7 +41,7 @@ The implementation of this project includes three main stages: setup Arduino com
 
 ●  The User Interface (UI) is designed as follow:
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/daa5135d-e520-4e14-b453-8d9ec509bf34)
-<p style="text-align: center;">Image 3. User Interface.</em></p>
+<p align=center><em>Image 3. User Interface.</em></p>
 
 The EMG Signal Dashboard web application serves as an interactive interface for monitoring real-time data received from an EMG sensor connected to an Arduino. This dashboard displays the latest EMG values, the current effect being applied, and the mode in which the system is operating. It fetches updated data from the Flask server at regular intervals, providing users with a dynamic and current view of the EMG signals and system status. This setup is particularly useful for immediate feedback and visualization of EMG data, such as in biofeedback therapy, muscle activity monitoring, and interactive audio-visual systems.
 
