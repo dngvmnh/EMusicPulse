@@ -29,7 +29,7 @@ The implementation of this project includes three main stages: setup Arduino com
 
 ● System design:
 ![system design](https://github.com/dngvmnh/EMusicPulse/assets/133772077/10853052-1546-47bf-9715-01d42129c3fc)
-_Image 2. System design._
+<p style="text-align: center;"><em>Image 2. System design.</em></p>
 
 
 ● An Arduino Uno was used to controll to system; EMG A10-09 sensor to obtain electromyographic signals; a potentiometer to change between modes; and a speaker to play sounds and effects.
@@ -41,7 +41,7 @@ _Image 2. System design._
 
 ●  The User Interface (UI) is designed as follow:
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/daa5135d-e520-4e14-b453-8d9ec509bf34)
-_Image 3. User Interface._
+<p style="text-align: center;">Image 3. User Interface.</em></p>
 
 The EMG Signal Dashboard web application serves as an interactive interface for monitoring real-time data received from an EMG sensor connected to an Arduino. This dashboard displays the latest EMG values, the current effect being applied, and the mode in which the system is operating. It fetches updated data from the Flask server at regular intervals, providing users with a dynamic and current view of the EMG signals and system status. This setup is particularly useful for immediate feedback and visualization of EMG data, such as in biofeedback therapy, muscle activity monitoring, and interactive audio-visual systems.
 
