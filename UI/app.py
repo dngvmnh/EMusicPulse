@@ -1,27 +1,18 @@
-from flask import Flask, render_template, request
-
+from flask import Flask, jsonify
+from flask_cors import CORS
 app = Flask(__name__)
-
+CORS(app)
 # Store the latest EMG signal, effect, and mode data
 latest_data = {
-    'emg_value': 0,
+    'emg_value': 100,
     'effect_name': 'None',
     'mode_value': 0
 }
 
-# Route to receive data from Arduino
-@app.route('/update_data', methods=['POST'])
-def update_data():
-    data = request.json
-    latest_data['emg_value'] = data['emg_value']
-    latest_data['effect_name'] = data['effect_name']
-    latest_data['mode_value'] = data['mode_value']
-    return 'Data received successfully!'
-
-# Route to serve HTML page
-@app.route('/')
-def index():
-    return render_template('index.html', data=latest_data)
+# Route to get latest data
+@app.route('/get_latest_data', methods=['GET'])
+def get_latest_data():
+    return jsonify(latest_data)
 
 if __name__ == '__main__':
     app.run(debug=True)

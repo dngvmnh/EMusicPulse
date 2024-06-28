@@ -3,6 +3,41 @@ const menuBtn = document.getElementById("menu-btn");
 const closeBtn = document.getElementById("close-btn");
 
 const darkMode = document.querySelector(".dark-mode");
+const info1 = document.querySelector(
+  "main .analyse .sales .status .info .info1"
+);
+const info2 = document.querySelector(
+  "main .analyse .visits .status .info .info1"
+);
+const info3 = document.querySelector(
+  "main .analyse .searches .status .info .info1"
+);
+
+function fetchData() {
+  fetch("http://localhost:5000/get_latest_data")
+    .then((response) => response.json())
+    .then((data) => {
+      // Create and update elements with the fetched data
+      info1.innerHTML = "";
+      info2.innerHTML = "";
+      info3.innerHTML = "";
+      const emgvalue = document.createElement("h1");
+      const effectname = document.createElement("h1");
+      const mode_value = document.createElement("h1");
+
+      emgvalue.textContent = `EMG Value: ${data.emg_value}`;
+      effectname.textContent = `Effect Name: ${data.effect_name}`;
+      mode_value.textContent = `Mode Value: ${data.mode_value}`;
+
+      info1.appendChild(emgvalue);
+      info2.appendChild(effectname);
+      info3.appendChild(mode_value);
+    })
+    .catch((error) => console.error("Error fetching data:", error));
+}
+
+// Fetch data every second
+setInterval(fetchData, 1000);
 
 menuBtn.addEventListener("click", () => {
   sideMenu.style.display = "block";
