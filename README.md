@@ -21,7 +21,7 @@ The project addresses several significant social issues. It enhances accessibili
 
 This project, inspired by people like Đặng Ngọc Duy - a blind teacher who loves music, is carried out as an effort to help music enthusiasts and individuals passionate about creative expression, particularly those facing physical disabilities or challenges. Despite losing fingers in an accident, he plays the guitar with incredible skill. His story shows how technology can help anyone make music, no matter their physical challenges. EMusicPulse aims to make music accessible to everyone, just like Duy, by using special technology that turns muscle movements into music. The aim is to demonstrate that music can be a means of self-expression for anyone, facilitated by technology. Duy's story illustrates that with determination and the appropriate tools, anything can be achieved, and the intention is to disseminate that message globally through this project.
 ![image](https://github.com/dngvmnh/EMusicPulse/assets/133772077/8a96e70f-126a-4bc6-b17f-58bb7a1b06fc)
-<p style="text-align: center;"><em></em>Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident.</em></p>
+<p style="text-align: center;"><em>Image 1. Đặng Ngọc Duy, a blind teacher and music enthusiast, skillfully playing the guitar with a three-fingered hand after an explosive accident.</em></p>
 
 ## Implementation
 
