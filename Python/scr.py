@@ -4,7 +4,7 @@ import time
 import threading
 import brainflow
 
-arduino_port = 'COM6
+arduino_port = 'COM6'
 baud_rate = 9600
 ser = serial.Serial(arduino_port, baud_rate)
 
